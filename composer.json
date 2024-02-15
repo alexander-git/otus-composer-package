@@ -1,0 +1,14 @@
+{
+    "name": "alexander-gladkov/string-processing",
+    "type": "library",
+    "description": "String processing package",
+    "autoload": {
+        "psr-4": {
+            "AlexanderGladkov\\StringProcessing\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "ext-mbstring": "*"
+    }
+}
