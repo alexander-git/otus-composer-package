@@ -1,3 +1,4 @@
-/docker         export-ignore
-/development    export-ignore
-/.env.example   export-ignore
+/docker-compose.yaml    export-ignore
+/docker                 export-ignore
+/development            export-ignore
+/.env.example           export-ignore
